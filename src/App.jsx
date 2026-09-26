@@ -1,8 +1,12 @@
 import React from 'react'
+import AdminDashboard from './component/Dashboard/AdminDashboard'
 
 const App = () => {
   return (
-    <div>App</div>
+   <>
+   <AdminDashboard />
+
+   </>
   )
 }
 
